@@ -1,0 +1,4 @@
+
+
+class ValueRef:
+    value = float()
